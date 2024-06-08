@@ -118,7 +118,7 @@ header {
 .section-2,
 .section-3,
 .section-4 {
-    min-height: 100vh;
+    min-height: 50vh;
     width: 100%;
     background-color: #fff;
     display: flex;
@@ -130,7 +130,7 @@ header {
 .section-3 section,
 .section-4 section {
     width: 90%;
-    min-height: 90vh;
+    min-height: 40vh;
     border-radius: 18px;
     box-shadow: 0 0 5px 1px rgb(0, 0, 0, 0.1);
     display: flex;
