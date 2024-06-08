@@ -136,6 +136,7 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin: 10px;
 }
 
 .message-1 {
@@ -418,7 +419,7 @@ footer::before {
     }
 
     .left-content {
-        margin-left: -20px;
+        margin-left: 10px;
     }
 
     .right-content img {
@@ -436,7 +437,7 @@ footer::before {
     }
 
     .message-1 p{
-        font-size: 16px;
+        font-size: 12px;
         color: #979CA2;
         line-height: 1.4;
         margin: 0 10px;
